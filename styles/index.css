@@ -1,1 +1,9 @@
-@import "./foobar.css";
+.foo {
+  svg {
+    display: none;
+  }
+
+  .bar {
+    display: inline;
+  }
+}
