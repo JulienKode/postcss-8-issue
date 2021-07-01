@@ -2,7 +2,6 @@ const prefixer = require("postcss-prefix-selector");
 
 module.exports = {
   plugins: [
-    require("postcss-import"),
     require("autoprefixer"),
     require("postcss-nested"),
     prefixer({
