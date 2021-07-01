@@ -1,6 +1,6 @@
-.stuff .foo .stuff svg {
+.stuff .foo svg {
     display: none;
   }
-  .stuff .foo .stuff .bar {
+  .stuff .foo .bar {
     display: inline;
   }
